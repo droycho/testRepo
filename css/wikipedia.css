@@ -1,0 +1,45 @@
+.sidebar {
+  width: 15%;
+  min-height: 2200px;
+  background-color: #E0E0E0;
+  float: left;
+  text-align: left;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+.linkslist {
+  list-style-type: disc;
+  font-size: 12px;
+}
+
+.navbar-form {
+  float: right;
+}
+
+.navbar {
+  margin-left: 15%;
+}
+
+.jumbotron {
+  margin-top: 100px;
+  margin-left: 10px;
+  margin-right: 100px;
+  display: inline-block;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+.toptext {
+  font-size: 12px;
+}
+
+h4 {
+  font-weight: normal;
+  font-size: 15px;
+}
